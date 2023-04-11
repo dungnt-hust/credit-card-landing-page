@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/credit-card-landing-page/static/css/main.1a752ca7.css",
+    "main.js": "/credit-card-landing-page/static/js/main.a00126af.js",
+    "static/media/isocard.svg": "/credit-card-landing-page/static/media/isocard.b41d54a5b4badc617122bce47e1ade74.svg",
+    "index.html": "/credit-card-landing-page/index.html",
+    "static/media/checkpoint.svg": "/credit-card-landing-page/static/media/checkpoint.f1192641eda95b1eadd3f5ed6af32b84.svg",
+    "main.1a752ca7.css.map": "/credit-card-landing-page/static/css/main.1a752ca7.css.map",
+    "main.a00126af.js.map": "/credit-card-landing-page/static/js/main.a00126af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a752ca7.css",
+    "static/js/main.a00126af.js"
+  ]
+}
